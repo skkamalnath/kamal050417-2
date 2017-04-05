@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { userComponent } from './components/user.component';
-import { AboutComponent } from './components/about.component';
+import { userComponent } from './user.component';
+import { AboutComponent } from './about.component';
 import { routing } from './app.routing';
 
 @NgModule({
